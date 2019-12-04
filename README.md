@@ -1,2 +1,2 @@
 # scala
-Scala Programming Language
+[Scala Programming Language](https://www.scala-lang.org/)
